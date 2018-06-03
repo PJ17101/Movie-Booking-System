@@ -1,0 +1,150 @@
+h3
+{
+color:Blue;
+font-size:130%;
+font-style: oblique;
+}
+h2
+{
+text-transform: capitalize;
+color:#A02B94;
+font-size:140%;
+font-style: oblique;
+}
+h4
+{
+text-transform: capitalize;
+color:#A02B94;
+font-size:130%;
+font-style: oblique;
+}
+i.innner
+{
+text-transform: capitalize;
+color:maroon;
+font-size:110%
+}
+i.abc
+{
+text-transform: capitalize;
+color:#676414;
+font-size:110%
+}
+i
+{
+text-transform: capitalize;
+color:#1E72A0;
+font-size:110%
+}
+th
+{
+text-transform: capitalize;
+
+border-width: 2px;
+color:maroon;
+font-size:110%
+}
+th.type
+{
+text-transform: capitalize;
+color:maroon;
+font-size:110%
+}
+td
+{
+text-transform: capitalize;
+border-width: 2px;
+color:Blue;
+font-style: oblique;
+}
+td.type
+{
+color:Red;
+font-style: oblique;
+}
+
+table.type
+{
+
+border-width: 2px;
+border-color:black;
+}
+b
+{
+text-transform: capitalize;
+color:red;
+font-size:120%;
+font-style: oblique;
+}
+p
+{
+font-size:120%;
+text-decoration:none
+}
+
+a
+{
+text-decoration:none
+}
+a:link
+{
+color:navy;
+}
+a:visited 
+{ 
+	color: Red;
+}
+a:hover
+{ 
+	color: Brown;
+	text-decoration: none;
+}
+a:active
+{
+color:Red;
+}
+input
+{
+background-color:#CDE5FF;
+color:Navy;
+border: 1px solid #666666;
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+}
+textarea
+{
+background-color:#CDE5FF;
+color:Navy;
+border: 1px solid #666666;
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+}
+select
+{
+background-color:#CDE5FF;
+color:Black;
+border: 1px solid #666666;
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+}
+input.button
+{
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+background-image:url('./images/skyblue.jpg');
+  color: Black; 
+  margin-right: 6px;
+   text-align:center;
+  width:80;
+  height:30;
+  border-top-color:blue;
+  
+}
+/*body
+{
+background-image:url('./images/skybluee.jpg');
+}*/
+img.type
+{
+position: absolute;
+clip:circle;
+
+}
+
+
